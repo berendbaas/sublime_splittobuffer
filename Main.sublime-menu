@@ -1,0 +1,10 @@
+[  
+{  
+    "id": "edit",  
+    "children":  
+    [  
+        {"id": "Split To Buffer"},  
+        { "command": "splittobuffer" }  
+    ]  
+}  
+]  
